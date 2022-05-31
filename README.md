@@ -2,11 +2,17 @@
 - 👀 I’m interested in Tech as a whole
 - 
    💻 I'm a web developer  fully based on backend 
+
       Skills :
+
        Core java ,java swing and java fx
+
        Python 
+
        Php with laravel frame work and ajax 
+
        Html ,Css and javascript 
+
        Sql.
  
 - 📫 mobile:08100891337 e-mail:muhtohasulaimon@gmail.com
