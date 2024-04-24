@@ -29,9 +29,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Dexter-stack">「 Google Me 」</a>
     <br>
-    「I am a backend wizard conjuring code from the vibrant tech realm of <b>Nigeria</b>. 」
+    「I'm a <b>backend wizard</b> conjuring code from the vibrant tech realm of <b>Nigeria</b>, while also excelling as a <b>desktop app developer</b> and embracing the world of <b>security</b>. 🧙‍♂️💻🔐 」
     <br>
     <br>
   </samp>
@@ -96,11 +96,7 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Dexter-stack&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Dexter-stack/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Dexter-stack&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Dexter-stack/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Dexter-stack&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Dexter-stack/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Dexter-stack&repo=Dexter-stack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Dexter-stack/Dexter-stack)
+
 
 <p align="left">
   <a href="https://github.com/Dexter-stack?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -112,7 +108,7 @@
 
 <p align="center">
   <a href="https://github.com/Dexter-stack">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexter-stack&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexter-stack&theme=radical&border=7F3FBF&background=0D1117" alt="Dexter GitHub streak"/>
   </a>
 </p>
 
@@ -129,4 +125,4 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dexter-stack&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Dexter's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dexter-stack&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
