@@ -41,7 +41,7 @@
  <a href="https://Dexter-stack.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Dexter-stack" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/sulaiman-muhammad-2475a11a1" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dexter-stack"/>
  </a>
  <!-- <a href="https://dev.to/Dexter-stack" target="_blank">
@@ -125,4 +125,4 @@
 </a>
 
 
-![Dexter's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dexter-stack&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Dexter's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dexter-stack&custom_title=Dexter's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
